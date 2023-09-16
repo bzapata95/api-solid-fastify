@@ -6,19 +6,19 @@ GymPass style app.
 
 - [x] Debe ser posible registrarse;
 - [x] Debe ser posible autenticarse;
-- [ ] Debe ser posible obtener el perfil de un usuario logeado
+- [x] Debe ser posible obtener el perfil de un usuario logeado
 - [ ] Debe ser posible obtener un número de check-ing realizados por usuarios logeados;
 - [ ] Debe ser posible un usuario obtener su historial de check-ing realizados;
 - [ ] Debe ser posible un usuario buscar academias próximas;
 - [ ] Debe ser posible un usuario buscar academias por nombre;
-- [ ] Debe ser posible un usuario realizar check-ing en una academia;
+- [x] Debe ser posible un usuario realizar check-ing en una academia;
 - [ ] Debe ser posible validar un check-ing de un usuario;
 - [ ] Debe ser posible registrar una academia;
 
 ## RNs (Reglas de negocio)
 
 - [x] Un usuario no debe poder registrarse con un email duplicado;
-- [ ] Un usuario no puede hacer 2 check-ing en un mismo día;
+- [x] Un usuario no puede hacer 2 check-ing en un mismo día;
 - [ ] Un usuario no puede hacer check-ing si no esta cerca (100m) de academia;
 - [ ] Un check-ing puede ser validado a 20 minutos despues de ser creado;
 - [ ] Un check-in solo puede ser validado por administradores;
