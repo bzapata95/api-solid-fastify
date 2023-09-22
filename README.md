@@ -7,7 +7,7 @@ GymPass style app.
 - [x] Debe ser posible registrarse;
 - [x] Debe ser posible autenticarse;
 - [x] Debe ser posible obtener el perfil de un usuario logeado
-- [ ] Debe ser posible obtener un número de check-ing realizados por usuarios logeados;
+- [x] Debe ser posible obtener un número de check-ing realizados por usuarios logeados;
 - [x] Debe ser posible un usuario obtener su historial de check-ing realizados;
 - [ ] Debe ser posible un usuario buscar academias próximas;
 - [ ] Debe ser posible un usuario buscar academias por nombre;
@@ -23,7 +23,6 @@ GymPass style app.
 - [ ] Un check-ing puede ser validado a 20 minutos despues de ser creado;
 - [ ] Un check-in solo puede ser validado por administradores;
 - [ ] Una academia solo puede ser registrada solo por administradores;
-- [ ] Un
 
 ## RNFs (Requisitos no funcionales)
 
